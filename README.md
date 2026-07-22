@@ -1,4 +1,4 @@
-# Quantitative_Financial_Analisys_Proyect
+# Quantitative_Financial_Analysis_Proyect
 > **Financial Data Science Case Study:** Volatility assessment, cross-classification, and risk-adjusted return (Sharped Ratio)
 ---
 ## 📌 Exercise Summary 
