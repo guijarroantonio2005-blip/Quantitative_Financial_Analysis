@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 # Quantitative_Financial_Analysis_Proyect
 > **Financial Data Science Case Study:** Volatility assessment, cross-classification, and risk-adjusted return (Sharpe Ratio)
-=======
+
 # 📊 Quantitative Asset Analysis: Gold, S&P 500 & IBEX 35
 
 > **Financial Data Science Case Study:** Volatility assessment, cross-asset correlation, and risk-adjusted efficiency (Sharpe Ratio).
 
->>>>>>> 6b57e7a3d9ae7dd2904715a3c2148e4c247ccd6a
 ---
 
 ## 📌 Executive Summary
