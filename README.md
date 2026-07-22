@@ -51,8 +51,42 @@ Where:
 
 ---
 
-## 🚀 Getting Started
+## 📈 Visual Analysis & Market Data
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/tu_usuario/Quantitative_Financial_Analysis.git](https://github.com/tu_usuario/Quantitative_Financial_Analysis.git)
+### 1. Daily Percentage Returns Statistics
+Summary statistics for daily percentage returns ($\%$) across the analyzed timeframe:
+
+| Metric | Gold (`GC=F`) | S&P 500 (`^GSPC`) | IBEX 35 (`^IBEX`) |
+| :--- | :---: | :---: | :---: |
+| **Data Count** | 397 | 397 | 397 |
+| **Mean Daily Return** | 0.116% | 0.066% | **0.131%** |
+| **Daily Volatility ($\sigma$)** | **1.588%** | 1.065% | 1.075% |
+| **Best Day (Max)** | 6.083% | **9.515%** | 4.323% |
+| **Worst Day (Min)** | -11.366% | -5.975% | -5.831% |
+
+---
+
+### 2. Cumulative Growth of 1€ Invested
+Evolution of historical capital performance over time:
+
+![Cumulative Growth](cumulative_growth.png)
+
+---
+
+### 3. Cross-Asset Correlation Matrix
+Evaluating diversification benefits using daily return correlation ($r$):
+
+| Asset | Gold | S&P 500 | IBEX 35 |
+| :--- | :---: | :---: | :---: |
+| **Gold** | `1.00` | **`0.12`** | `0.21` |
+| **S&P 500** | `0.12` | `1.00` | `0.29` |
+| **IBEX 35** | `0.21` | `0.29` | `1.00` |
+
+> 💡 **Takeaway:** The low correlation of **0.12** between Gold and the S&P 500 confirms that Gold acts as an effective short-term risk diversifier.
+
+---
+
+### 4. Risk-Adjusted Performance (Annualized Sharpe Ratio)
+Comparing excess return relative to total risk ($R_f = 3\%$):
+
+![Sharpe Ratio](sharpe_ratio.png)
