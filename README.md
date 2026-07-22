@@ -1,5 +1,5 @@
-# Quantitative_Financial_Analisys_Proyect
-> **Financial Data Science Case Study:** Volatility assessment, cross-classification, and risk-adjusted return (Sharped Ratio)
+# Quantitative_Financial_Analysis_Proyect
+> **Financial Data Science Case Study:** Volatility assessment, cross-classification, and risk-adjusted return (Sharpe Ratio)
 ---
 ## 📌 Exercise Summary 
 In this project I analyzes the behavior of three global benchmark assets (**Gold**, **S&P 500** and **IBEX 35**) to evaluate capital efficiency beyond gross return.
