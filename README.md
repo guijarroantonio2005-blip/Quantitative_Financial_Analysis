@@ -87,7 +87,7 @@ Evaluating diversification benefits using daily return correlation ($r$):
 
 > 💡 **Takeaway:** The low correlation of **0.12** between Gold and the S&P 500 confirms that Gold acts as an effective short-term risk diversifier.
 
----
+
 
 ### 4. Risk-Adjusted Performance (Annualized Sharpe Ratio)
 Comparing excess return relative to total risk ($R_f = 3\%$):
